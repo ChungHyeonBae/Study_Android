@@ -1,2 +1,2 @@
-# Study_Android
-Android 업로드 용
+# StudyAndroid
+Android 업로드용

@@ -39,24 +39,24 @@
         <item name="android:layout_marginLeft">10dp</item>
     </style>
 
-    <!--   <LinearLayout
-           android:layout_marginLeft="20dp"
-           android:orientation="horizontal"
-           android:layout_width="wrap_content"
-           android:layout_height="wrap_content">
-           <ImageView
-               android:src="@drawable/ic_menu1"
-               android:layout_width="30dp"
-               android:layout_height="30dp"/>
-           <TextView
-               android:textColor="#2E2E2E"
-               android:layout_gravity="center"
+ <!--   <LinearLayout
+        android:layout_marginLeft="20dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:src="@drawable/ic_menu1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"/>
+        <TextView
+            android:textColor="#2E2E2E"
+            android:layout_gravity="center"
 
-               android:text="비즈프로필 관리"
-               android:layout_width="wrap_content"
-               android:layout_height="wrap_content"/>
+            android:text="비즈프로필 관리"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
 
-       </LinearLayout>-->
+    </LinearLayout>-->
 
 
 
